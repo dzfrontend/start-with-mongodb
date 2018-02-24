@@ -6,4 +6,4 @@ MongoDB的使用，MongoDB的安装请查看官方文档。这个文档也挺好
 
 ## 目录
 
-* [MongoDB Shell基本操作](https://github.com/)
+* [MongoDB Shell基本操作](https://github.com/dzfrontend/start-with-mongodb/tree/master/1%EF%BC%9AMongoDB%20Shell%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
