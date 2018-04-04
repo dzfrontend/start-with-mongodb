@@ -3,6 +3,8 @@
 
 MongoDB的使用，MongoDB的安装请查看官方文档。这个文档也挺好的 <http://www.runoob.com/mongodb/mongodb-create-database.html>.
 
+mongodb: <https://docs.mongodb.com/>
+mongoose: <http://mongoosejs.com/docs/>
 
 ## 目录
 
